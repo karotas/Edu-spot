@@ -8,7 +8,7 @@
 }
 body:{
   height:auto;
-  background:red;
+  
 } 
 
 nav {
@@ -250,6 +250,10 @@ nav ul li:hover {
     width: 100%;
     justify-content: center;
   }
+  body{
+  height:auto ;
+  
+  } 
   .courses .left button {
     width: 180px;
     display: flex;
@@ -270,4 +274,9 @@ nav ul li:hover {
   .menu-bar {
     display: none;
   }
+  body{
+
+ height:80% ;
+
+  } 
 }/*# sourceMappingURL=index.css.map */
