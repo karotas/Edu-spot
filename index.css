@@ -6,6 +6,10 @@
   letter-spacing: 1px;
   scroll-behavior: smooth;
 }
+body:{
+  height:auto;
+  background:red;
+} 
 
 nav {
   height: 70px;
