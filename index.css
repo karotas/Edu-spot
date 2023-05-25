@@ -6,10 +6,8 @@
   letter-spacing: 1px;
   scroll-behavior: smooth;
 }
-body:{
-  height:auto;
-  
-} 
+
+
 
 nav {
   height: 70px;
@@ -250,10 +248,7 @@ nav ul li:hover {
     width: 100%;
     justify-content: center;
   }
-  body{
-  height:auto ;
   
-  } 
   .courses .left button {
     width: 180px;
     display: flex;
